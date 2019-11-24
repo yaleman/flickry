@@ -3,7 +3,7 @@ chardet==3.0.4
 flickrapi==2.4.0
 idna==2.6
 oauthlib==2.0.7
-requests==2.18.4
+requests==2.20.0
 requests-oauthlib==0.8.0
 requests-toolbelt==0.8.0
 six==1.11.0
