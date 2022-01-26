@@ -1,3 +1,5 @@
+⚠️ THIS IS ARCHIVED AND WILL NOT BE UPDATED ⚠️
+
 # FlickrY
 
 yaleman's flickr downloader
